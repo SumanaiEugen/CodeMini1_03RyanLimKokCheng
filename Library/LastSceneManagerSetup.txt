@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/03_CodeMini1_RyanLimKokCheng.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
